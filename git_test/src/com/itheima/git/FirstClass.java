@@ -1,6 +1,5 @@
 package com.itheima.git;
 
-import java.sql.SQLOutput;
 
 /**
  * @author fei
@@ -17,6 +16,10 @@ public class FirstClass {
 		System.out.println("hellow git project");
 		System.out.println("hellow git project");
 
+
+		for (int i = 0; i < 22; i++) {
+			System.out.println(11);
+		}
 	}
 
 }
